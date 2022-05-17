@@ -2,7 +2,7 @@
 
 # Blog Address
 
-<https://eccentric-w.github.io/blog/>
+<https://eccentric-w.github.io/blog>
 
 
 # Must Modify
