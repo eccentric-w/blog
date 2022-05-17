@@ -2,7 +2,7 @@
 
 # Blog Address
 
-<https://bit-ranger.github.io/blog/>
+<https://eccentric-w.github.io/blog/>
 
 
 # Must Modify

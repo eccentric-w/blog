@@ -1,6 +1,6 @@
 # 博客地址
 
-<https://bit-ranger.github.io/blog/>
+<https://eccentric-w.github.io/blog/>
 
 # 必改内容
 

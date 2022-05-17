@@ -6,4 +6,4 @@ icon: octicon-link-external
 
 ---
 
-### [github](https://github.com/bit-ranger/blog)
+### [github](https://eccentric-w.github.io/blog/)
